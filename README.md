@@ -48,3 +48,6 @@ También puedes ingresar la clave al iniciar el programa (modo interactivo).
 
 ## Notas
 - Si la API key es inválida, la API devolverá error y el programa lo mostrará en consola.
+
+<img width="893" height="737" alt="image" src="https://github.com/user-attachments/assets/5a9e8cc6-1fbc-4017-a43a-e7bdc58f2c1b" />
+
